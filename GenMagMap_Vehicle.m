@@ -6,7 +6,7 @@ x_max = 120.2201;
 y_min = 22.9995;
 y_max = 23.0002;
 grid_sz = 0.00005;
-
+addpath functions\;
 %% read file
 % trj file
 format = ['%f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f'];
